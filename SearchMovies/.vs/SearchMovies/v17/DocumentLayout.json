@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Decagon L\\OneDrive\\Desktop\\Repo--main\\SearchMovies\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{91A81BD2-15BD-467A-A1CC-BA60719214CA}|SearchMovies\\SearchMovies.csproj|c:\\users\\decagon l\\onedrive\\desktop\\repo--main\\searchmovies\\searchmovies\\controllers\\moviecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91A81BD2-15BD-467A-A1CC-BA60719214CA}|SearchMovies\\SearchMovies.csproj|solutionrelative:searchmovies\\controllers\\moviecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91A81BD2-15BD-467A-A1CC-BA60719214CA}|SearchMovies\\SearchMovies.csproj|c:\\users\\decagon l\\onedrive\\desktop\\repo--main\\searchmovies\\searchmovies\\model\\moviedetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91A81BD2-15BD-467A-A1CC-BA60719214CA}|SearchMovies\\SearchMovies.csproj|solutionrelative:searchmovies\\model\\moviedetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91A81BD2-15BD-467A-A1CC-BA60719214CA}|SearchMovies\\SearchMovies.csproj|c:\\users\\decagon l\\onedrive\\desktop\\repo--main\\searchmovies\\searchmovies\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{91A81BD2-15BD-467A-A1CC-BA60719214CA}|SearchMovies\\SearchMovies.csproj|solutionrelative:searchmovies\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91A81BD2-15BD-467A-A1CC-BA60719214CA}|SearchMovies\\SearchMovies.csproj|c:\\users\\decagon l\\onedrive\\desktop\\repo--main\\searchmovies\\searchmovies\\services\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91A81BD2-15BD-467A-A1CC-BA60719214CA}|SearchMovies\\SearchMovies.csproj|solutionrelative:searchmovies\\services\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91A81BD2-15BD-467A-A1CC-BA60719214CA}|SearchMovies\\SearchMovies.csproj|c:\\users\\decagon l\\onedrive\\desktop\\repo--main\\searchmovies\\searchmovies\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91A81BD2-15BD-467A-A1CC-BA60719214CA}|SearchMovies\\SearchMovies.csproj|solutionrelative:searchmovies\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Decagon L\\OneDrive\\Desktop\\Repo--main\\SearchMovies\\SearchMovies\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "SearchMovies\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Decagon L\\OneDrive\\Desktop\\Repo--main\\SearchMovies\\SearchMovies\\Properties\\launchSettings.json",
+              "RelativeToolTip": "SearchMovies\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2023-11-30T03:14:37.801Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MovieController.cs",
+              "DocumentMoniker": "C:\\Users\\Decagon L\\OneDrive\\Desktop\\Repo--main\\SearchMovies\\SearchMovies\\Controllers\\MovieController.cs",
+              "RelativeDocumentMoniker": "SearchMovies\\Controllers\\MovieController.cs",
+              "ToolTip": "C:\\Users\\Decagon L\\OneDrive\\Desktop\\Repo--main\\SearchMovies\\SearchMovies\\Controllers\\MovieController.cs",
+              "RelativeToolTip": "SearchMovies\\Controllers\\MovieController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-30T03:11:25.267Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ApiResponse.cs",
+              "DocumentMoniker": "C:\\Users\\Decagon L\\OneDrive\\Desktop\\Repo--main\\SearchMovies\\SearchMovies\\Services\\ApiResponse.cs",
+              "RelativeDocumentMoniker": "SearchMovies\\Services\\ApiResponse.cs",
+              "ToolTip": "C:\\Users\\Decagon L\\OneDrive\\Desktop\\Repo--main\\SearchMovies\\SearchMovies\\Services\\ApiResponse.cs",
+              "RelativeToolTip": "SearchMovies\\Services\\ApiResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-30T03:10:01.867Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MovieDetails.cs",
+              "DocumentMoniker": "C:\\Users\\Decagon L\\OneDrive\\Desktop\\Repo--main\\SearchMovies\\SearchMovies\\Model\\MovieDetails.cs",
+              "RelativeDocumentMoniker": "SearchMovies\\Model\\MovieDetails.cs",
+              "ToolTip": "C:\\Users\\Decagon L\\OneDrive\\Desktop\\Repo--main\\SearchMovies\\SearchMovies\\Model\\MovieDetails.cs",
+              "RelativeToolTip": "SearchMovies\\Model\\MovieDetails.cs",
+              "ViewState": "AQIAADYAAAAAAAAAAAAAAEEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-30T03:07:34.69Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Decagon L\\OneDrive\\Desktop\\Repo--main\\SearchMovies\\SearchMovies\\Program.cs",
+              "RelativeDocumentMoniker": "SearchMovies\\Program.cs",
+              "ToolTip": "C:\\Users\\Decagon L\\OneDrive\\Desktop\\Repo--main\\SearchMovies\\SearchMovies\\Program.cs",
+              "RelativeToolTip": "SearchMovies\\Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA0AAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-30T03:05:03.317Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
